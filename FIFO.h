@@ -36,6 +36,7 @@
 /*-------------------------------------------------------------*
  *		Includes and dependencies			*
  *-------------------------------------------------------------*/
+#include <cstdint>
 #include <stdlib.h>
 #include <string.h>
 #include <stdint.h>
